@@ -8,3 +8,6 @@ https://www.linkedin.com/in/priyanka-sahu-444a21242/
 - 📫 How to reach me: sahu.priyanka2122@gmail.com
 
 
+Languages and Tools ⚙️
+JavaScript TypeScript HTML5 CSS3 React NodeJS NestJS Next JS MongoDB MySQL Figma Socket.io Express.js Firebase GitHub TailwindCSS MUI Redux
+
