@@ -10,5 +10,5 @@ https://www.linkedin.com/in/priyanka-sahu-444a21242/
 
 Languages and Tools ⚙️
 
-JavaScript TypeScript HTML5 CSS3 React NodeJS NestJS Next JS MongoDB MySQL Figma Socket.io Express.js Firebase GitHub TailwindCSS MUI Redux
+JavaScript TypeScript HTML5 CSS3 React NodeJS Next JS MongoDB Figma Express.js Firebase GitHub TailwindCSS Redux
 
