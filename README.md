@@ -1,5 +1,7 @@
 ## Hi there 👋
 I am Priyanka Sahu.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/belvinbenny/](https://www.linkedin.com/in/priyanka-sahu-444a21242/))
+
 https://www.linkedin.com/in/priyanka-sahu-444a21242/
 
 🔭 I’m currently working on few personal projects
