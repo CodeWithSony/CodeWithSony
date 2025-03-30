@@ -4,7 +4,7 @@ I am Priyanka Sahu.
 
 
 🔭 I’m currently working on few personal projects
-🌱 I’m currently learning Next.js
+🌱 I’m currently learning full stack development with next.js.
 👯 I’m looking to collaborate on various open source projects
 - 📫 How to reach me: sahu.priyanka2122@gmail.com
 
