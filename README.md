@@ -5,7 +5,7 @@ I am Priyanka Sahu.
 
 🔭 I’m currently working on few personal projects
 
-🌱 I’m currently learning full stack development.
+🌱 I’m currently learning full stack development with my full stack projects.
 
 👯 I’m looking to collaborate on various open source projects
 
